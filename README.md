@@ -8,7 +8,7 @@
 
 ## 🔧 Skills
 
-- 💻 Programming Languages: Currently learn C programming.
+- 💻 Programming Languages: Currently learning C programming.
 - 📦 Version Control: Git and GitHub
 
 ## 🌱 Currently Learning
